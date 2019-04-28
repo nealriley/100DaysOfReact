@@ -1,68 +1,76 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 100 Days of React
 
-## Available Scripts
+Welcome to 100 days of React! This repo has everything you need to get started with learning the basics of Web Development with React. 
 
-In the project directory, you can run:
+Much of this curriculum was based on [Freecodecamp](https://learn.freecodecamp.org/front-end-libraries/react/), with nods to [nas5w's 100 days of code](https://github.com/nas5w/100-days-of-code-frontend#html).    
 
-### `npm start`
+## Curriculum Topics
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Part 1 - Getting started with HTML
+[Introduction to Basic HTML and HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+### Part 2 - Modern CSS 
+[Bascis of CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css)
 
-### `npm test`
+[Visual Design with CSS/HTML](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[CSS FlexBox and Grid](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
 
-### `npm run build`
+[CSS FlexBox and Grid](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Part 3- Javascript
+[ES6](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+[OO Programming in JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
 
-### `npm run eject`
+[Algorithms in JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Part 4 - Web Design Frameworks
+[Bootstrap](https://learn.freecodecamp.org/front-end-libraries/bootstrap)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Part 5 - React / Redux
+[Getting started with React](https://learn.freecodecamp.org/front-end-libraries/react)
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+[Getting started with Redux](https://learn.freecodecamp.org/front-end-libraries/redux)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+[30 days of React](https://github.com/fullstackreact/30-days-of-react)
 
-## Learn More
+### Stretch Goals
+[Webpack](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[ESLint](https://www.youtube.com/watch?v=YIvjKId9m2c)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[TypeScript and React](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4)
 
-### Code Splitting
+[NextJS](https://nextjs.org/learn/)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+### Applying Knowledge with Projects
+[Project - Build a product landing page](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 
-### Analyzing the Bundle Size
+## Getting started
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+First up, you will need to fork this repo, and clone it! 
 
-### Making a Progressive Web App
+Next, you will need to install a few things in order to run React locally (and deploy to Github Pages):
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+* [nvm](https://github.com/nvm-sh/nvm) or [nvm-windows](https://github.com/coreybutler/nvm-windows) for Windows
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [iTerm](https://www.iterm2.com/) or [ConEmu](https://conemu.github.io/) for Windows
 
-### Advanced Configuration
+You can either use React locally for the earlier (non-React) sections, or use something like CodePen if you prefer. 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+Next up, install Node/NPM/Yarn
 
-### Deployment
+* Open up a Terminal and type 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+    * `nvm install v10.15.3`
 
-### `npm run build` fails to minify
+    * `nvm use v10.15.3` 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+* Then, install [Yarn](https://yarnpkg.com/lang/en/docs/install)
+
+You should be able to check out this repository, cd into the folder, and run:
+
+`yarn install`
