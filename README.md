@@ -7,16 +7,29 @@ Much of this curriculum was based on [Freecodecamp](https://learn.freecodecamp.o
 ## Curriculum Topics
 
 ### Part 1 - Getting started with HTML
-[Introduction to Basic HTML and HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
+
+_Working with the basic structure of HTML, be able to pull together a frame for a web page._
+
+#### Materials
+* [Introduction to Basic HTML and HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
+
+#### Project Ideas
+
+* Create a single page app with your CV
+* Single page app for getting basic info about something?
 
 ### Part 2 - Modern CSS 
-[Bascis of CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css)
 
-[Visual Design with CSS/HTML](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
+#### Materials
+* [Bascis of CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css)
+* [Visual Design with CSS/HTML](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
+* [CSS FlexBox and Grid](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
+* [CSS FlexBox and Grid](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
 
-[CSS FlexBox and Grid](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
+#### Project Ideas
 
-[CSS FlexBox and Grid](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
+* Make your website look good! Try to borrow a design language from another site and recreate in raw CSS 
+* Apply your CSS styles to elements, classes, and other parts of your CV!
 
 ### Part 3- Javascript
 [ES6](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)
@@ -27,15 +40,35 @@ Much of this curriculum was based on [Freecodecamp](https://learn.freecodecamp.o
 
 [Algorithms in JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
 
+#### Project Ideas
+ 
+ * Using a basic javascript object, progromatticaly create or update elements on a page
+
+ * Create a countdown timer in HTML/JS
+
 ### Part 4 - Web Design Frameworks
+
 [Bootstrap](https://learn.freecodecamp.org/front-end-libraries/bootstrap)
 
+#### Project Ideas
+
+* Explore basic properties of JQuery and other frameworks, explore some basic functionality of modifying elements in HTML / addd/remove CSS proeprties
+
 ### Part 5 - React / Redux
+
 [Getting started with React](https://learn.freecodecamp.org/front-end-libraries/react)
 
 [Getting started with Redux](https://learn.freecodecamp.org/front-end-libraries/redux)
 
 [30 days of React](https://github.com/fullstackreact/30-days-of-react)
+
+#### Project Ideas
+
+* Take the bootstrap-based framework and implement it in React
+
+* Create a site that pulls in external data from a websrervice and renders it on a page
+
+* Create a product landing page? 
 
 ### Stretch Goals
 [Webpack](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
